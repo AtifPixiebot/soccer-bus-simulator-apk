@@ -1,6 +1,6 @@
 # Soccer Bus Simulator — Android APK
 
-## ⬇️ [DOWNLOAD APK (90.8 MB)](https://github.com/AtifPixiebot/soccer-bus-simulator-apk/releases/download/v1.0-day/SoccerBusSimulator.apk)
+## ⬇️ [DOWNLOAD APK (90.7 MB, v1.1)](https://github.com/AtifPixiebot/soccer-bus-simulator-apk/releases/latest/download/SoccerBusSimulator.apk)
 
 Mirror: [direct file link](https://raw.githubusercontent.com/AtifPixiebot/soccer-bus-simulator-apk/main/SoccerBusSimulator.apk)
 
